@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.minelink</groupId>
+  <artifactId>CombatTagPlus</artifactId>
+  <versioning>
+    <release>installer</release>
+    <versions>
+      <version>installer</version>
+    </versions>
+    <lastUpdated>20201209220421</lastUpdated>
+  </versioning>
+</metadata>
