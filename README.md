@@ -23,6 +23,6 @@ repositories {
 
 CivRepo also offers easy aliasing to other Civ repositories, just replace `https://civrepo.io/` with:
 
-    * Devoted: `https://devoted.civrepo.io/`
+- Devoted: `https://devoted.civrepo.io/`
     
-    * Civclassic: `https://civclassic.civrepo.io/`
+- Civclassic: `https://civclassic.civrepo.io/`
